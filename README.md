@@ -10,7 +10,7 @@ This solution is targeted to SAP Business One partners operating on the cloud (p
 The solution automates the tenant provisioning in the cloud without manual intervention of the cloud operator/partner. This enables the partners to streamline the on-boarding process of their customers and by that increase their volume business.
 
 ## How to use the solution 
-The solution is composed from 2 web user interfaces: one user interface is used by the _cloud operator_ to configure the tenant provisioning parameters and the second one integrates with the on-boarding process of the partner’s customers and is used by the _customer_. The user interface is written in java script (based on SAPUI5) and it interacts with a server-side component, written in NodeJS. 
+The solution is composed from 2 web user interfaces: one user interface is used by the _**cloud operator**_ to configure the tenant provisioning parameters and the second one integrates with the on-boarding process of the partner’s customers and is used by the _**customer**_. The user interface is written in java script (based on SAPUI5) and it interacts with a server-side component, written in NodeJS. 
 There are 3 main steps to work with the solution:
 * Prepare Pre-configured template, using the **Tenant Configurator wizard**
 * Build on-boarding web pages  
