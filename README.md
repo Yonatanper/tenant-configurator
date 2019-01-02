@@ -6,6 +6,7 @@ This solution is targeted to SAP Business One partners operating on the cloud (p
 * OEM deals
 * Packaged solutions (e.g., Starter Package)
 * Vertical/Micro-vertical solutions
+
 The solution automates the tenant provisioning in the cloud without manual intervention of the cloud operator/partner. This enables the partners to streamline the on-boarding process of their customers and by that increase their volume business.
 
 ## How to use the solution 
