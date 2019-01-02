@@ -19,7 +19,7 @@ There are 3 main steps to work with the solution:
 More details can be found in the User guide under the Documentation folder.  
 
 ## Prerequisites
-SAP Business One Cloud, PL 12 or lower. In addition, you need nodeJS to be installed on the same machine you install the server-side of the solution. 
+SAP Business One Cloud, PL 12 or lower. In addition, you need [nodeJS](https://nodejs.org/en/) to be installed on the same machine you install the server-side of the solution. 
 
 ## Installation 
 The solution is written in Java script, so you can easily deploy it and customize it – in order to see how to install it, please refer to the User Guide under the Documentation folder. 
